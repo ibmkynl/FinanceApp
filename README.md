@@ -1,6 +1,6 @@
 # financeapp
 
-  This price watcher app is working with [FMP Api](https://financialmodelingprep.com/developer/docs/) and [Unibit](https://unibit.ai/insight/news) APIs. If you want to run on your own device need to get api from Unibit and paste your api key to 'uniAlphaKey' constant in constants file under the lib folder. (no key needed for FMP api)
+  This price watcher app is working with [FMP](https://financialmodelingprep.com/developer/docs/) and [Unibit](https://unibit.ai/insight/news) APIs. If you want to run on your own device need to get api from Unibit and paste your api key to 'uniAlphaKey' constant in constants file under the lib folder. (no key needed for FMP api)
   
   
 
