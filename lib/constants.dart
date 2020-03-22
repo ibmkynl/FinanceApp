@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const String uniAlphaKey = "Dhzq2Hx7t6LAj6IRU2p8RhbmWqB14Zqc";
+const String uniAlphaKey = "Your-Api-Key";
 const kUnselectedLabelColor = Color(0xFF616267);
 const kSelectedLabelColor = Color(0xFF00A273);
 const kAppBarColor = Color(0xFF202125);
